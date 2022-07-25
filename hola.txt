@@ -1,8 +1,7 @@
-<<<<<<< Updated upstream
+
 Modificación hola.txt por German
-=======
 dentro.ok
 
 
 Trabajar en el mismo archivo
->>>>>>> Stashed changes
+
